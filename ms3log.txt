@@ -1,0 +1,92 @@
+INFO    2019-04-30 22:32:26,263 [main] com.ms3.SQL.MainClass  - testlog file
+INFO    2019-04-30 22:32:34,811 [main] com.ms3.SQL.MainClass  - number of records recieved : 13
+INFO    2019-04-30 22:32:34,811 [main] com.ms3.SQL.MainClass  - number of records successful : 10
+INFO    2019-04-30 22:32:34,812 [main] com.ms3.SQL.MainClass  - number of records failed : 3
+INFO    2019-05-01 16:01:16,782 [main] com.ms3.SQL.MainClass  - testlog file
+INFO    2019-05-01 16:01:30,568 [main] com.ms3.SQL.MainClass  - number of records recieved : 13
+INFO    2019-05-01 16:01:30,568 [main] com.ms3.SQL.MainClass  - number of records successful : 13
+INFO    2019-05-01 16:01:30,568 [main] com.ms3.SQL.MainClass  - number of records failed : 0
+INFO    2019-05-02 00:08:58,680 [main] com.ms3.SQL.MainClass  - testlog file
+INFO    2019-05-02 00:09:09,571 [main] com.ms3.SQL.MainClass  - number of records recieved : 13
+INFO    2019-05-02 00:09:09,572 [main] com.ms3.SQL.MainClass  - number of records successful : 13
+INFO    2019-05-02 00:09:09,572 [main] com.ms3.SQL.MainClass  - number of records failed : 0
+INFO    2019-05-02 00:29:24,824 [main] com.ms3.SQL.MainClass  - number of records recieved : 13
+INFO    2019-05-02 00:29:24,827 [main] com.ms3.SQL.MainClass  - number of records successful : 13
+INFO    2019-05-02 00:29:24,827 [main] com.ms3.SQL.MainClass  - number of records failed : 0
+INFO    2019-05-02 00:29:26,495 [main] com.ms3.SQL.MainClass  - Insert successful
+INFO    2019-05-02 00:31:31,565 [main] com.ms3.SQL.MainClass  - number of records recieved : 13
+INFO    2019-05-02 00:31:31,567 [main] com.ms3.SQL.MainClass  - number of records successful : 13
+INFO    2019-05-02 00:31:31,567 [main] com.ms3.SQL.MainClass  - number of records failed : 0
+INFO    2019-05-02 00:31:31,623 [main] com.ms3.SQL.MainClass  - Insert success of record :1
+INFO    2019-05-02 00:31:31,674 [main] com.ms3.SQL.MainClass  - Insert success of record :2
+INFO    2019-05-02 00:31:31,724 [main] com.ms3.SQL.MainClass  - Insert success of record :3
+INFO    2019-05-02 00:31:31,776 [main] com.ms3.SQL.MainClass  - Insert success of record :4
+INFO    2019-05-02 00:31:31,827 [main] com.ms3.SQL.MainClass  - Insert success of record :5
+INFO    2019-05-02 00:31:31,899 [main] com.ms3.SQL.MainClass  - Insert success of record :6
+INFO    2019-05-02 00:31:31,951 [main] com.ms3.SQL.MainClass  - Insert success of record :7
+INFO    2019-05-02 00:31:32,002 [main] com.ms3.SQL.MainClass  - Insert success of record :8
+INFO    2019-05-02 00:31:32,054 [main] com.ms3.SQL.MainClass  - Insert success of record :9
+INFO    2019-05-02 00:31:32,104 [main] com.ms3.SQL.MainClass  - Insert success of record :10
+INFO    2019-05-02 00:31:32,167 [main] com.ms3.SQL.MainClass  - Insert success of record :11
+INFO    2019-05-02 00:31:32,250 [main] com.ms3.SQL.MainClass  - Insert success of record :12
+INFO    2019-05-02 00:31:32,335 [main] com.ms3.SQL.MainClass  - Insert success of record :13
+INFO    2019-05-02 00:58:17,166 [main] com.ms3.SQL.MainClass  - number of records recieved : 13
+INFO    2019-05-02 00:58:17,167 [main] com.ms3.SQL.MainClass  - number of records successful : -1
+INFO    2019-05-02 00:58:17,167 [main] com.ms3.SQL.MainClass  - number of records failed : 14
+INFO    2019-05-02 01:03:05,174 [main] com.ms3.SQL.MainClass  - number of records recieved : 12
+INFO    2019-05-02 01:03:05,183 [main] com.ms3.SQL.MainClass  - number of records successful : -1
+INFO    2019-05-02 01:03:05,183 [main] com.ms3.SQL.MainClass  - number of records failed : 13
+INFO    2019-05-02 01:03:20,675 [main] com.ms3.SQL.MainClass  - number of records recieved : 13
+INFO    2019-05-02 01:03:20,675 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:03:20,683 [main] com.ms3.SQL.MainClass  - number of records failed : 13
+INFO    2019-05-02 01:06:28,296 [main] com.ms3.SQL.MainClass  - number of records recieved : 13
+INFO    2019-05-02 01:06:28,297 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:06:28,297 [main] com.ms3.SQL.MainClass  - number of records failed : 13
+INFO    2019-05-02 01:07:05,466 [main] com.ms3.SQL.MainClass  - number of records recieved : 13
+INFO    2019-05-02 01:07:05,469 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:07:05,469 [main] com.ms3.SQL.MainClass  - number of records failed : 13
+INFO    2019-05-02 01:09:17,069 [main] com.ms3.SQL.MainClass  - number of records recieved : 14
+INFO    2019-05-02 01:09:17,073 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:09:17,073 [main] com.ms3.SQL.MainClass  - number of records failed : 14
+INFO    2019-05-02 01:11:50,933 [main] com.ms3.SQL.MainClass  - number of records recieved : 15
+INFO    2019-05-02 01:11:50,936 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:11:50,936 [main] com.ms3.SQL.MainClass  - number of records failed : 15
+INFO    2019-05-02 01:12:36,260 [main] com.ms3.SQL.MainClass  - number of records recieved : 15
+INFO    2019-05-02 01:12:36,261 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:12:36,261 [main] com.ms3.SQL.MainClass  - number of records failed : 15
+INFO    2019-05-02 01:13:37,276 [main] com.ms3.SQL.MainClass  - number of records recieved : 15
+INFO    2019-05-02 01:13:37,284 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:13:37,284 [main] com.ms3.SQL.MainClass  - number of records failed : 15
+INFO    2019-05-02 01:15:54,382 [main] com.ms3.SQL.MainClass  - number of records recieved : 15
+INFO    2019-05-02 01:15:54,382 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:15:54,382 [main] com.ms3.SQL.MainClass  - number of records failed : 15
+INFO    2019-05-02 01:16:05,204 [main] com.ms3.SQL.MainClass  - number of records recieved : 15
+INFO    2019-05-02 01:16:05,204 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:16:05,204 [main] com.ms3.SQL.MainClass  - number of records failed : 15
+INFO    2019-05-02 01:16:18,983 [main] com.ms3.SQL.MainClass  - number of records recieved : 15
+INFO    2019-05-02 01:16:18,999 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:16:18,999 [main] com.ms3.SQL.MainClass  - number of records failed : 15
+INFO    2019-05-02 01:18:54,833 [main] com.ms3.SQL.MainClass  - number of records recieved : 16
+INFO    2019-05-02 01:18:54,833 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:18:54,833 [main] com.ms3.SQL.MainClass  - number of records failed : 16
+INFO    2019-05-02 01:23:26,204 [main] com.ms3.SQL.MainClass  - number of records recieved : 16
+INFO    2019-05-02 01:23:26,205 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:23:26,206 [main] com.ms3.SQL.MainClass  - number of records failed : 16
+INFO    2019-05-02 01:23:55,313 [main] com.ms3.SQL.MainClass  - number of records recieved : 15
+INFO    2019-05-02 01:23:55,317 [main] com.ms3.SQL.MainClass  - number of records successful : 0
+INFO    2019-05-02 01:23:55,317 [main] com.ms3.SQL.MainClass  - number of records failed : 15
+INFO    2019-05-02 01:38:58,723 [main] com.ms3.SQL.MainClass  - number of records recieved : 6001
+INFO    2019-05-02 01:38:58,724 [main] com.ms3.SQL.MainClass  - number of records successful : 4870
+INFO    2019-05-02 01:38:58,724 [main] com.ms3.SQL.MainClass  - number of records failed : 1131
+INFO    2019-05-02 01:42:47,244 [main] com.ms3.SQL.MainClass  - number of records recieved : 15
+INFO    2019-05-02 01:42:47,247 [main] com.ms3.SQL.MainClass  - number of records successful : 11
+INFO    2019-05-02 01:42:47,247 [main] com.ms3.SQL.MainClass  - number of records failed : 4
+INFO    2019-05-02 01:45:58,706 [main] com.ms3.SQL.MainClass  - number of records recieved : 15
+INFO    2019-05-02 01:45:58,707 [main] com.ms3.SQL.MainClass  - number of records successful : 11
+INFO    2019-05-02 01:45:58,708 [main] com.ms3.SQL.MainClass  - number of records failed : 4
+INFO    2019-05-02 02:22:15,398 [main] com.ms3.SQL.MainClass  - number of records recieved : 15
+INFO    2019-05-02 02:22:15,408 [main] com.ms3.SQL.MainClass  - number of records successful : 11
+INFO    2019-05-02 02:22:15,408 [main] com.ms3.SQL.MainClass  - number of records failed : 4
+INFO    2019-05-02 02:23:06,766 [main] com.ms3.SQL.MainClass  - number of records recieved : 6001
+INFO    2019-05-02 02:23:06,766 [main] com.ms3.SQL.MainClass  - number of records successful : 4866
+INFO    2019-05-02 02:23:06,781 [main] com.ms3.SQL.MainClass  - number of records failed : 1135
