@@ -6,13 +6,14 @@ Instructions to run the program
 3.	Open command prompt and navigate to the downloaded file location
 4.	Run the ‘import2SQLite.jar’ using the below command
   java -jar import2SQLite.jar
-5.	Enter the csv file name with path that needs to be parsed and inserted to SQLite DB and press enter
+5.	Enter the csv file name with path that needs to be parsed to SQLite DB and press enter
 6.	After successful run, ms3log.txt and ms3.db will be created in your working directory
 7.	Load ms3.db to check the inserted table using SQLite manager add on or SQLite DB manager
 
 Technologies and Versions
 -----------------------------------------------------------------------------------------------------------------------------
-I used the following technologies: Java, JDBC, log4j for logging purposes, DB browser for SQLite for testing and Eclipse IDE
+I used the following technologies: 
+Java, JDBC, log4j for logging purposes, DB browser for SQLite for testing and Eclipse IDE
 Jdk – jdk-10
 SQLite JDBC driver - sqlite-jdbc-3.8.6.jar
 Log4j – log4j-1.2.17.jar
